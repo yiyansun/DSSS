@@ -1,0 +1,12 @@
+names:
+- airplane
+nc: 1
+roboflow:
+  license: Public Domain
+  project: aerial-airport
+  url: https://universe.roboflow.com/gdit/aerial-airport/dataset/1
+  version: 1
+  workspace: gdit
+test: ../test/images
+train: Aerial-Airport-1/train/images
+val: Aerial-Airport-1/valid/images
